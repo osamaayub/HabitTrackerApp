@@ -23,8 +23,8 @@ the help of reducers functions.
 ### Project Structure
 1. **AddHabitForm Component:**
 -AddHabitForm Component there was a Form which was used to add habits.
-2. **HabitList Component:**
 
+2. **HabitList Component:**
 -HabitList Component it was used to render all the Habits added
 through the Form and styled using material UI Components and had
 delete habits functionality.
@@ -38,11 +38,17 @@ habits that were marked as completed.
 ### Technologies Used
 
 -**ReactJS**: For building the user interface.
+
 -**Tailwind CSS:**  For styling the app.
+
 -**Git:** For version control and managing project updates.
+
 -**GitHub**: To host the project's code and collaborate with others.
+
 -**Typescript:**To manage the Types of the objects used
+
 -**ReduxToolkit:** It was used for state management
+
 -**MaterialUI:**It was used to build the form component through 
 its build in Components.
 
